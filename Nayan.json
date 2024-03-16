@@ -7,7 +7,7 @@
   "notification": true,
   "approval": false,
   "BOTNAME": "➠𝐍𝐎𝐁𝐈𝐓𝐀 𝐑𝐎𝐁𝐎𝐓 🚀🤖",
-  "PREFIX": "!",
+  "PREFIX": "/",
   "OPERATOR": [
     "100072059144082",
     "100008828057322"
